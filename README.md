@@ -1,33 +1,28 @@
-## 📦 Présentation
-**app-install** est un script PowerShell avec interface graphique, conçu pour faciliter l’installation et la mise à jour d’une sélection d’applications Windows via [WinGet](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/).
+# 🧰 Assistant d’installation – GUI PowerShell pour WinGet
 
-L’interface permet de sélectionner rapidement les outils essentiels, organisés par catégorie, puis de lancer leur installation ou mise à jour en quelques clics.
+Ce script PowerShell propose une **interface graphique complète** pour installer, configurer, optimiser et maintenir un système Windows, en s’appuyant principalement sur **WinGet**.
 
-> 🔧 Idéal pour configurer un nouveau PC, automatiser une base logicielle ou déployer un environnement prêt à l’emploi.
+🔗 **Projet GitHub** : [https://github.com/kevin-gaonach/app-install](https://github.com/kevin-gaonach/app-install)
 
-## 📁 Catégories disponibles
-- **Essentiels**
-- **Internet**
-- **Image**
-- **Video**
-- **Musique**
-- **Securite**
-- **Jeux**
-- **Streaming**
-- **Monitoring**
-- **Benchmark**
-- **Communication**
-- **Materiel**
-- **Admins**
+---
 
-## ⚙️ Prérequis
-- Windows 10 ou 11
-- [WinGet](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/) installé
-- PowerShell 5.1+
-- Exécution en tant qu'administrateur
+## ✨ Fonctionnalités
 
-## 🚀 Capture d'écran
-<img width="800" height="824" alt="image" src="https://github.com/user-attachments/assets/c773b521-8933-4294-b115-89ebe7a8a783" />
+- ✅ Interface graphique
+- 🧩 Installation et mise à jour d'applications via WinGet
+- 📂 Classement par catégories (bureautique, gaming, multimédia, sécurité, etc.)
+- 🧰 Outils de configuration système :
+  - Paramètres IP/DNS
+  - Nom d’ordinateur & domaine
+  - Activer/Désactiver IPv6, DHCP
+- 🚀 Optimisations :
+  - Bureau à distance, UAC, Pare-feu
+  - Nettoyage disque & débloat Windows
+- 🛠️ Exécution de scripts PowerShell personnalisés
+- 🧠 Informations système détaillées et exportables
 
+---
 
+## 🖥️ Capture d'écran
 
+<img width="799" height="823" alt="image" src="https://github.com/user-attachments/assets/60d3aacf-0d92-46cd-a713-510169c2cd5f" />
