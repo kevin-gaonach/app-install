@@ -27,5 +27,7 @@ L’interface permet de sélectionner rapidement les outils essentiels, organis�
 - Exécution en tant qu'administrateur
 
 ## 🚀 Capture d'écran
-<img width="784" height="756" alt="image" src="https://github.com/user-attachments/assets/e233bc14-2f49-4034-9121-63d4e9ec9550" />
+<img width="800" height="824" alt="image" src="https://github.com/user-attachments/assets/c773b521-8933-4294-b115-89ebe7a8a783" />
+
+
 
