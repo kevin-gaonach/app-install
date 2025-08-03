@@ -1,4 +1,4 @@
-# 🧰 Assistant d’installation – GUI PowerShell pour WinGet
+# 🧰 Assistant d’installation
 
 Ce script PowerShell propose une **interface graphique complète** pour installer, configurer, optimiser et maintenir un système Windows, en s’appuyant principalement sur **WinGet**.
 
